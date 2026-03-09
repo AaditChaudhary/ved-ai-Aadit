@@ -6,3 +6,4 @@ Built by Aadit Chaudhary from Meerut, India.
 
 Try Ved AI:
 https://unrivaled-travesseiro-3d33bb.netlify.app
+ounder: Aadit Chaudhary – Creator of Ved AI
